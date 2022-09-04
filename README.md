@@ -1,4 +1,4 @@
-# Ciphers-Information-Security
-I have implemented few encryption techniques using C++, which can be useful for study purpose and also for practicing C++.
-# Softwares
-You will only need an editor (Visual Studio, Dev C++, etc...) to write a code and Cryptool (https://www.cryptool.org/en/cto/) to understand cipher techniques and to encrypt or decrypt any text.
+# Hotstart-Clone
+I have created a frontend project named "Disney+ Hotstar Clone", while learning from a bootcamp organized by DevTown. I have used HTML, CSS and Bootstrap.
+# Platform
+You can use any code editor (vs code, etc...). I have used Codesandbox (http://codesandbox.io/).
